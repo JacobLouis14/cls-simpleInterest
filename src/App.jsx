@@ -54,7 +54,7 @@ function App() {
         <div className="wrapper">
           <div className="screen w-100 d-flex justify-content-center">
             <span className="bg-success shadow w-50 text-center text-light fw-bold py-5 rounded-3">
-              Simple Interest :<p className="mt-3">{simpleInterest}</p>
+              Simple Interest :<p className="mt-3 fs-1">{simpleInterest}</p>
             </span>
           </div>
           <form className="inputContainer mt-5 p-3">
